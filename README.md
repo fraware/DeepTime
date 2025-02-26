@@ -2,6 +2,13 @@
 
 Welcome to the Granite TimeSeries Forecasting Tool – an interactive, lightweight forecasting platform based on IBM’s Granite-TimeSeries-TTM model family. This repository contains code for zero-shot forecasting, few-shot fine-tuning (including channel-mix finetuning), and M4 hourly evaluation experiments. The tool is fully containerized and deployable on Hugging Face Spaces, GitHub, or your preferred cloud environment.
 
+
+<p align="center" width="100%">
+<img src="dashboard image.png" width="600">
+</p>
+
+
+
 ## Table of Contents
 
 - [Overview](#overview)
