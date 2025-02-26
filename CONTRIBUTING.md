@@ -97,7 +97,7 @@ To set up your local development environment:
 - **Commit Messages:** Use clear and descriptive commit messages.
 - **Documentation:** Ensure that your code is well-documented, including docstrings and inline comments where necessary.
 
-Questions?
+### Questions?
 
 If you have any questions, feel free to open an issue or contact one of the maintainers.
 
