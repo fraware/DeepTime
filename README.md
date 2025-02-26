@@ -4,7 +4,7 @@ Welcome to the Granite TimeSeries Forecasting Tool – an interactive, lightweig
 
 
 <p align="center" width="100%">
-<img src="dashboard image.png" width="600">
+<img src="dashboard image new.png" width="600">
 </p>
 
 
