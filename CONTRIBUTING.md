@@ -58,7 +58,7 @@ Pull requests are the preferred way to contribute code. When you are ready to su
 
 7. **Open a Pull Request:** Navigate to the original repository and click "New Pull Request." Select your branch and provide a detailed description of your changes.
 
-Pull Request Guidelines
+### Pull Request Guidelines
 
 - **Descriptive Title and Description:** Clearly explain what your pull request does, why it is needed, and any relevant background information.
 - **Small, Focused Changes:** Try to keep your pull requests small and focused on a single issue or feature.
@@ -66,7 +66,7 @@ Pull Request Guidelines
 - **Documentation:** Update or add documentation as needed.
 - **Review Process:** Your pull request will be reviewed by maintainers. Be prepared to make changes based on feedback.
 
-Development Setup
+### Development Setup
 
 To set up your local development environment:
 
@@ -91,7 +91,7 @@ To set up your local development environment:
    pip install -r requirements.txt
    ```
 
-Code Style Guidelines
+### Code Style Guidelines
 
 - **Python Style:** Follow PEP 8 guidelines for Python code.
 - **Commit Messages:** Use clear and descriptive commit messages.
